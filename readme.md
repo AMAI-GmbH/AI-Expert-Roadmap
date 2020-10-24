@@ -31,39 +31,28 @@ An interactive version of the following maps can be found at [i.am.ai](https://i
 
 ## Introduction
 
-<p align="center">
 [![AI Expert Roadmap Introduction](./images/intro.svg)](https://i.am.ai/roadmap#introduction)
-</p>
 
 ## Data Science Roadmap
 
-<p align="center">
 [![Data Science Roadmap](./images/datascience.svg)](https://i.am.ai/roadmap#data-science-roadmap)
-</p>
 
 ## Machine Learning Roadmap
 
-<p align="center">
 [![Machine Learning Roadmap](./images/machine_learning.svg)](https://i.am.ai/roadmap#machine-learning-roadmap)
-</p>
 
 ## Deep Learning Roadmap
 
-<p align="center">
 [![Deep Learning Roadmap](./images/deep_learning.svg)](https://i.am.ai/roadmap#deep-learning-roadmap)
-</p>
 
 ## Data Engineer Roadmap
 
-<p align="center">
 [![Data Engineer Roadmap](./images/data_engineer.svg)](https://i.am.ai/roadmap#data-engineer-roadmap)
-</p>
 
 ## Big Data Engineer Roadmap
 
-<p align="center">
 [![Big Data Roadmap](./images/big_data_engineer.svg)](https://i.am.ai/roadmap#big-data-engineer-roadmap)
-</p>
+
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, we will continue to improve this, so you might want to watch/star this repository to revisit.
