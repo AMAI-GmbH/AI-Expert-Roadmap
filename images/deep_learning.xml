@@ -1,0 +1,146 @@
+<mxfile modified="2020-10-24T21:32:18.127Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="psy8NuBxYgCTPnVqjRDC" compressed="false" version="13.8.1" type="device">
+  <diagram id="HEeXjzhvv4987mpRdfDT" name="Page-3">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="430" pageHeight="1060" math="0" shadow="0">
+      <root>
+        <mxCell id="jhC989v31fuuEPfAI_ox-0" />
+        <mxCell id="jhC989v31fuuEPfAI_ox-1" parent="jhC989v31fuuEPfAI_ox-0" />
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=11;fontColor=#000000;" parent="jhC989v31fuuEPfAI_ox-1" source="jhC989v31fuuEPfAI_ox-2" target="jhC989v31fuuEPfAI_ox-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC989v31fuuEPfAI_ox-2" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Deep Learning&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=nowrap;html=1;strokeColor=none;textDirection=ltr;fontSize=24;fontStyle=0" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="126" y="101" width="221" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC989v31fuuEPfAI_ox-3" value="" style="curved=1;endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#1F6286;endFill=0;" parent="jhC989v31fuuEPfAI_ox-1" target="jhC989v31fuuEPfAI_ox-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="0.5" as="sourcePoint" />
+            <mxPoint x="156" y="40.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="266" y="20.5" />
+              <mxPoint x="206" y="70.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Deep Learning Papers Reading Roadmap" link="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap" id="jhC989v31fuuEPfAI_ox-5">
+          <mxCell style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="46" y="200.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jhC989v31fuuEPfAI_ox-6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Papers&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="7" y="173.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Papers with code" link="https://paperswithcode.com/" id="jhC989v31fuuEPfAI_ox-13">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="46" y="250.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=11;fontColor=#000000;" parent="jhC989v31fuuEPfAI_ox-1" source="jhC989v31fuuEPfAI_ox-14" target="jhC989v31fuuEPfAI_ox-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Papers with code - state of the art" link="https://paperswithcode.com/sota" id="jhC989v31fuuEPfAI_ox-14">
+          <mxCell style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="46" y="300.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Understanding &lt;br&gt;Neural Networks" link="https://towardsdatascience.com/understanding-neural-networks-19020b758230" id="jhC989v31fuuEPfAI_ox-20">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="176" y="400.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jhC989v31fuuEPfAI_ox-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Neural Networks&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="250.5" y="366.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC989v31fuuEPfAI_ox-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=11;fontColor=#000000;" parent="jhC989v31fuuEPfAI_ox-1" source="jhC989v31fuuEPfAI_ox-74" target="jhC989v31fuuEPfAI_ox-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261" y="440.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Perceptrons" link="https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53" id="jhC989v31fuuEPfAI_ox-74">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="46" y="500.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jhC989v31fuuEPfAI_ox-75" value="Autoencoders" style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="46" y="550.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Convolutional Neural Networks&lt;br&gt;(CNN)" link="https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53" id="jhC989v31fuuEPfAI_ox-76">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="46" y="600.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jhC989v31fuuEPfAI_ox-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=11;fontColor=#000000;" parent="jhC989v31fuuEPfAI_ox-1" source="jhC989v31fuuEPfAI_ox-78" target="jhC989v31fuuEPfAI_ox-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC989v31fuuEPfAI_ox-78" value="Generative Adversarial Networks (GAN)" style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="46" y="700.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC989v31fuuEPfAI_ox-79" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Architectures&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="26" y="474.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Awesome Deep Learning" link="https://github.com/ChristosChristofidis/awesome-deep-learning" id="jhC989v31fuuEPfAI_ox-80">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="176" y="800.8333333333335" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jhC989v31fuuEPfAI_ox-81" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Tools&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="250.5" y="772.8333333333335" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhC989v31fuuEPfAI_ox-84" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=24;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" source="jhC989v31fuuEPfAI_ox-85" target="jhC989v31fuuEPfAI_ox-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="PyTorch" link="https://pytorch.org/" id="jhC989v31fuuEPfAI_ox-85">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="176" y="900.3333333333335" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jhC989v31fuuEPfAI_ox-86" value="&lt;h1 style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;keep exploring and stay up-to-date&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;html=1;strokeColor=none;textDirection=ltr;fontSize=22;fontStyle=0;whiteSpace=wrap;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="14" y="985" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;rounded=1;labelBackgroundColor=none;fillColor=#FFFF00;fontSize=10;rotation=45;strokeColor=#d6b656;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="206" y="193" width="16" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;rounded=1;labelBackgroundColor=none;fillColor=#FFFF00;fontSize=10;rotation=45;strokeColor=#d6b656;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="208" y="243" width="16" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;rounded=1;labelBackgroundColor=none;fillColor=#FFFF00;fontSize=10;rotation=45;strokeColor=#d6b656;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="206" y="293" width="16" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=24;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" source="KsJ2Czu0PXdUfGMdA1Ay-7" target="KsJ2Czu0PXdUfGMdA1Ay-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-7" value="Recurrent Neural Networks&lt;br&gt;(RNN)" style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="46" y="650.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 11px;&quot;&gt;LSM&lt;/font&gt;" link="https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5" id="KsJ2Czu0PXdUfGMdA1Ay-8">
+          <mxCell style="rounded=0;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="276" y="629.5" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=24;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" source="KsJ2Czu0PXdUfGMdA1Ay-9" target="KsJ2Czu0PXdUfGMdA1Ay-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-9" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;LSTM&lt;/span&gt;" style="rounded=0;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="276" y="660.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=24;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" source="KsJ2Czu0PXdUfGMdA1Ay-10" target="KsJ2Czu0PXdUfGMdA1Ay-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 11px;&quot;&gt;GRU&lt;/font&gt;" id="KsJ2Czu0PXdUfGMdA1Ay-10">
+          <mxCell style="rounded=0;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="276" y="690.5" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;rounded=1;labelBackgroundColor=none;fillColor=#FFFF00;fontSize=10;rotation=45;strokeColor=#d6b656;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="338" y="893" width="16" height="15" as="geometry" />
+        </mxCell>
+        <UserObject label="Tensorflow" link="https://www.tensorflow.org/" id="KsJ2Czu0PXdUfGMdA1Ay-16">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+            <mxGeometry x="176" y="850.3333333333335" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KsJ2Czu0PXdUfGMdA1Ay-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;rounded=1;labelBackgroundColor=none;fillColor=#FFFF00;fontSize=10;rotation=45;strokeColor=#d6b656;" parent="jhC989v31fuuEPfAI_ox-1" vertex="1">
+          <mxGeometry x="338" y="843" width="16" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

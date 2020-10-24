@@ -1,0 +1,299 @@
+<mxfile modified="2020-10-24T21:34:07.881Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8r6Zh9X0Moa9g25WZztw" compressed="false" version="13.8.1" type="device">
+  <diagram id="tnxyiyi4WRpZzoaliO9H" name="Page-2">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="590" pageHeight="1285" math="0" shadow="0">
+      <root>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-0" />
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-1" parent="6rCNIvlzMnQTXOo2ZaPR-0" />
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#1F6286;endArrow=none;endFill=0;textDirection=ltr;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-3" target="6rCNIvlzMnQTXOo2ZaPR-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="180" />
+              <mxPoint x="270" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-3" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Big Data Engineer&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=nowrap;html=1;strokeColor=none;textDirection=ltr;fontSize=24;fontStyle=0" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+          <mxGeometry x="245" y="100" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-4" value="" style="curved=1;endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#1F6286;endFill=0;" parent="6rCNIvlzMnQTXOo2ZaPR-1" target="6rCNIvlzMnQTXOo2ZaPR-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" as="sourcePoint" />
+            <mxPoint x="295" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="20" />
+              <mxPoint x="345" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Architectural Patterns &amp;amp; Best Practices (video)" link="https://www.youtube.com/watch?v=ovPheIbY7U8" id="6rCNIvlzMnQTXOo2ZaPR-5">
+          <mxCell style="rounded=1;html=1;fontColor=#FFFFFF;textDirection=ltr;fontSize=12;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;fillColor=#1F6286;whiteSpace=wrap;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="200" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#1F6286;endArrow=none;endFill=0;textDirection=ltr;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-5" target="6rCNIvlzMnQTXOo2ZaPR-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Horizontal vs vertical scaling" link="https://www.esds.co.in/blog/what-is-the-difference-between-horizontal-vertical-scaling/#sthash.iubDpt2n.5N21DzoW.dpbs" id="6rCNIvlzMnQTXOo2ZaPR-24">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="315" y="300.5" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Map Reduce" link="https://de.wikipedia.org/wiki/MapReduce" id="6rCNIvlzMnQTXOo2ZaPR-39">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="315" y="342" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data Replication" link="https://www.geeksforgeeks.org/data-replication-in-dbms/" id="6rCNIvlzMnQTXOo2ZaPR-54">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="315" y="383" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Job &amp;amp; Task Tracker" link="https://www.includehelp.com/big-data/mapreduces-engine-job-tracker-and-task-tracker-in-hadoop.aspx" id="6rCNIvlzMnQTXOo2ZaPR-65">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="315" y="465" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Name &amp;amp; Data Nodes" link="https://pediaa.com/what-is-the-difference-between-namenode-and-datanode-in-hadoop/" id="6rCNIvlzMnQTXOo2ZaPR-67">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="315" y="424" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-65" target="6rCNIvlzMnQTXOo2ZaPR-104" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.66666666666697" y="495.66666666666674" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Check the Awesome Big Data List" link="https://github.com/onurakpolat/awesome-bigdata" id="6rCNIvlzMnQTXOo2ZaPR-104">
+          <mxCell style="rounded=1;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;whiteSpace=wrap;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="556" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Hadoop (large data)" link="https://hadoop.apache.org/" id="6rCNIvlzMnQTXOo2ZaPR-105">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="596" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Spark (in memory)" link="https://spark.apache.org/" id="6rCNIvlzMnQTXOo2ZaPR-107">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="636" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-119" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-120" target="6rCNIvlzMnQTXOo2ZaPR-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px;&quot;&gt;HDFS&lt;/span&gt;" link="https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html" id="6rCNIvlzMnQTXOo2ZaPR-120">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="400" y="572" width="175" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-121" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-123" target="6rCNIvlzMnQTXOo2ZaPR-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px&quot;&gt;Loading data with &lt;a href=&quot;https://sqoop.apache.org/&quot; style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ffffff&quot;&gt;Sqoop &lt;/font&gt;&lt;/a&gt;and &lt;a href=&quot;https://pig.apache.org/&quot; style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ffffff&quot;&gt;Pig&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;" id="6rCNIvlzMnQTXOo2ZaPR-123">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="400" y="602" width="175" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;Big Data Architectures&lt;/font&gt;" link="https://docs.microsoft.com/de-de/azure/architecture/data-guide/big-data/" id="6rCNIvlzMnQTXOo2ZaPR-133">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="85" y="173" width="180" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-134" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Priciples&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+          <mxGeometry x="395.5" y="273.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-135" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Tools&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+          <mxGeometry x="156" y="514" width="110" height="31" as="geometry" />
+        </mxCell>
+        <UserObject label="RAPIDS (on GPU)" link="https://rapids.ai/" id="6rCNIvlzMnQTXOo2ZaPR-152">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="675" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#ffffff&quot;&gt;&lt;a href=&quot;https://flume.apache.org/&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Flume&lt;/font&gt;&lt;/a&gt;, Scribe: For Unstruct Data&lt;/font&gt;" id="6rCNIvlzMnQTXOo2ZaPR-154">
+          <mxCell style="rounded=1;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;whiteSpace=wrap;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="714" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data Warehouse with &lt;a href=&quot;https://hive.apache.org/&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Hive&lt;/font&gt;&lt;/a&gt;" id="6rCNIvlzMnQTXOo2ZaPR-155">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="754" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Elastic (EKL) Stack" link="https://www.elastic.co/" id="6rCNIvlzMnQTXOo2ZaPR-156">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="794" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Avro" link="https://en.wikipedia.org/wiki/Apache_Avro" id="6rCNIvlzMnQTXOo2ZaPR-158">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="834" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Flink" link="https://flink.apache.org/" id="6rCNIvlzMnQTXOo2ZaPR-159">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="874" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MLFlow" link="https://mlflow.org/" id="6rCNIvlzMnQTXOo2ZaPR-160">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="914" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://kafka.apache.org/&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Kafka &lt;/font&gt;&lt;/a&gt;&amp;amp; &lt;a href=&quot;https://www.confluent.io/product/ksql/&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;KSQL&lt;/font&gt;&lt;/a&gt;" id="6rCNIvlzMnQTXOo2ZaPR-161">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="954" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Databases" link="https://www.datamation.com/data-center/slideshows/16-open-source-big-data-databases.html" id="6rCNIvlzMnQTXOo2ZaPR-162">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="994" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 11px;&quot;&gt;Storm: Hadoop Realtime&lt;/span&gt;" link="https://de.hortonworks.com/apache/storm/" id="Gbb27ZSeOEuHX0l6B958-0">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="400" y="631" width="175" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-0" target="6rCNIvlzMnQTXOo2ZaPR-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.9677419354839" y="586.516129032258" as="sourcePoint" />
+            <mxPoint x="359.9677419354839" y="616.0322580645161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;dashed=1;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-8" target="6rCNIvlzMnQTXOo2ZaPR-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-8" value="to get data (e.g. logging), search, analyze &lt;br&gt;&amp;nbsp; &amp;nbsp;and visualize it in realtime" style="ellipse;shape=cloud;html=1;whiteSpace=wrap;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+          <mxGeometry x="415" y="710" width="170" height="105" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 11px;&quot;&gt;Cassandra&lt;/span&gt;" link="http://cassandra.apache.org/" id="Gbb27ZSeOEuHX0l6B958-11">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="0.8620689655172669" y="984.5" width="155" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;a href=&quot;https://www.mongodb.com/&quot; style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ffffff&quot;&gt;MongoDB&lt;/font&gt;&lt;/a&gt;, &lt;a href=&quot;https://neo4j.com/&quot; style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ffffff&quot;&gt;Neo4j&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;" id="Gbb27ZSeOEuHX0l6B958-13">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="0.8620689655172669" y="1013" width="155" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=12;fontColor=#FFFFFF;fillColor=#878787;labelBackgroundColor=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-162" target="Gbb27ZSeOEuHX0l6B958-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.90476190476193" y="930.0238095238095" as="sourcePoint" />
+            <mxPoint x="105.14285714285711" y="959.547619047619" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="1009" />
+              <mxPoint x="175" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.008;exitY=0.499;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=12;fontColor=#FFFFFF;exitPerimeter=0;fillColor=#878787;labelBackgroundColor=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="6rCNIvlzMnQTXOo2ZaPR-162" target="Gbb27ZSeOEuHX0l6B958-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.93959731543623" y="1013.9731543624162" as="sourcePoint" />
+            <mxPoint x="160.81208053691273" y="998.5369127516778" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="1009" />
+              <mxPoint x="175" y="1024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Scalability" link="https://dzone.com/articles/big-database-1-scalability" id="Gbb27ZSeOEuHX0l6B958-17">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="1034" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 11px;&quot;&gt;ZooKeeper&lt;/span&gt;" link="https://en.wikipedia.org/wiki/Apache_ZooKeeper" id="Gbb27ZSeOEuHX0l6B958-18">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="399.86206896551727" y="1024.5" width="155" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kubernetes" link="https://kubernetes.io/" id="Gbb27ZSeOEuHX0l6B958-19">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="399.86206896551727" y="1053" width="155" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=12;fontColor=#FFFFFF;fillColor=#878787;labelBackgroundColor=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-18" target="Gbb27ZSeOEuHX0l6B958-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="1019.1666666666666" as="sourcePoint" />
+            <mxPoint x="360" y="1048.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=12;fontColor=#FFFFFF;fillColor=#878787;labelBackgroundColor=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-19" target="Gbb27ZSeOEuHX0l6B958-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="1083.5" as="sourcePoint" />
+            <mxPoint x="360" y="1053.8333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Cloud Services" link="https://medium.com/@iced_burn/service-comparison-for-gcp-aws-ms-azure-ca030dc42ee9" id="Gbb27ZSeOEuHX0l6B958-22">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="1074" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 11px;&quot;&gt;AWS SageMaker&lt;/span&gt;" link="https://aws.amazon.com/de/sagemaker/" id="Gbb27ZSeOEuHX0l6B958-23">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry y="1051.5" width="155" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Google ML Engine" link="https://cloud.google.com/ml-engine/" id="Gbb27ZSeOEuHX0l6B958-24">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry y="1079.5" width="155" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 11px;&quot;&gt;Microsoft Azure&lt;br style=&quot;font-size: 11px;&quot;&gt;Machine Learning Studio&lt;/span&gt;" link="https://studio.azureml.net/" id="Gbb27ZSeOEuHX0l6B958-25">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry y="1107" width="155" height="27" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=12;fontColor=#FFFFFF;fillColor=#878787;labelBackgroundColor=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-22" target="Gbb27ZSeOEuHX0l6B958-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="184" y="1070.5" as="sourcePoint" />
+            <mxPoint x="155" y="1055.1666666666667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="174" y="1089" />
+              <mxPoint x="174" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=12;fontColor=#FFFFFF;fillColor=#878787;labelBackgroundColor=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-22" target="Gbb27ZSeOEuHX0l6B958-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1094" as="sourcePoint" />
+            <mxPoint x="160" y="1064.6666666666667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="1089" />
+              <mxPoint x="155" y="1089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gbb27ZSeOEuHX0l6B958-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="Gbb27ZSeOEuHX0l6B958-22" target="Gbb27ZSeOEuHX0l6B958-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="1134.5" as="sourcePoint" />
+            <mxPoint x="165" y="1105.1666666666667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="1089" />
+              <mxPoint x="175" y="1122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe1DaiiPhDVsQ9KaHMsJ-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=24;fontColor=#FFFFFF;" parent="6rCNIvlzMnQTXOo2ZaPR-1" source="NtcXeDbWIDkagvIsFP0r-0" target="pe1DaiiPhDVsQ9KaHMsJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1146" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe1DaiiPhDVsQ9KaHMsJ-2" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;keep exploring and stay up-to-date&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;html=1;strokeColor=none;textDirection=ltr;fontSize=21;fontStyle=0;whiteSpace=wrap;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+          <mxGeometry x="300" y="1216" width="218" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Awesome Production ML" link="https://github.com/EthicalML/awesome-production-machine-learning" id="NtcXeDbWIDkagvIsFP0r-0">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;strokeColor=#000000;labelBackgroundColor=none;endFill=0;endArrow=none;" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+            <mxGeometry x="185" y="1115" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

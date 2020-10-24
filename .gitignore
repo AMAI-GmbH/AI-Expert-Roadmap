@@ -1,0 +1,10 @@
+.DS_Store
+._*
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.idea
+node_modules
+/public/
+.vuepress/dist/
+deploy.md

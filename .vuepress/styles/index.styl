@@ -1,0 +1,84 @@
+img, svg {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.inline
+  display: inline;
+
+.nav-item .icon.outbound {
+  display: none !important;
+}
+
+
+
+
+
+.navbar {
+  box-shadow: 0px 1px 10px 0px rgba(221,221,221,0.1);
+  top: 0px;
+  position: fixed;
+  z-index: 222;
+  width:100%;
+  padding-right: 0;
+
+
+  border-bottom: 0px solid;
+  border-color: lightgrey;
+  /*box-shadow: 0px 1px 10px 0px rgba(255,255,255,0.8); #white version*/
+  
+}
+.navbar .container {
+  max-width: 2000px;
+}
+
+.home-link {
+  font-size: 2em;
+}
+
+.nav-links {
+  font-size: 1.1em;
+  margin: 0px 14px 0px 12px;
+  
+}
+
+.nav-item a:hover {
+    background-color: #eeeeee55;
+    color: black;
+    box-shadow: 0px 3px 0px -1px #206287; /*amai blau 206287, neon blau 206287*/
+  }
+
+/* Style the active/current link*/
+.nav-item .router-link-active {
+  border-bottom: 0 !important;
+  box-shadow: 0px 6px 0px -1px #206287;
+  color: black;
+  font-weight: bold;
+  font-family: "DM Mono", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+  Arial, sans-serif;
+}
+
+.nav-link, .repo-link {
+  padding: 0.5em 0.5em;
+}
+
+@media only screen and (max-width: 720px) {
+  .nav-links, .nav-item {
+    margin-left: 0;
+    padding-left:0 !important;
+  }
+  .nav-link {
+        padding: 0.35rem 1rem 0.35rem 1.25rem;
+  }
+  .nav-item .router-link-active {
+     box-shadow: 0 0 0 0 #ffffffff;
+     border-left: 0.25rem solid #1f6286;
+  }
+
+  .repo-link {
+    margin-left:0;
+    padding: 0.35rem 1rem 0.35rem 1.25rem !important;
+  }
+}

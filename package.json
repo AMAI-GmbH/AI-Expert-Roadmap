@@ -1,0 +1,19 @@
+{
+  "name": "ai-expert-roadmap",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vuepress dev . --no-cache",
+    "build": "vuepress build . --no-cache"
+  },
+  "author": "Jürgen Stumpp",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AMAI-GmbH/AI-Expert-Roadmap.git"
+  },
+  "license": "MIT"
+}
