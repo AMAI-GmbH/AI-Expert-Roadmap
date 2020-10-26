@@ -66,6 +66,7 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 * Spread the word
 * Reach out with any feedback
 
-## Sponsored By
+## Supported By
 
-<a href="https://am.ai" target="_blank"><img alt="AMAI GmbH" src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c7afe41ee880758f2b8a9c1_AMAI-AI-Experts.svg" style="display: inherit;"/></a>
+<a href="https://am.ai" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;    margin-right: 40px;"/></a>
+<a href="https://digitalhub-ai.de/" target="_blank"><img alt="AMAI GmbH" src="./images/logos/de-hub.svg" style="display: inherit;max-width: 150px;"/></a>
