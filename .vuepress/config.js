@@ -21,7 +21,7 @@ module.exports = {
         nav: [
             { text: 'AI Use Cases', link: 'https://i.am.ai/usecases', target:'_self' },
             { text: 'AI Roadmap', link: '/' },
-            { text: 'AI Newsletter', link: 'https://i.am.ai/newsletter.html', target:'_self' },
+            { text: 'AI Newsletter', link: 'https://i.am.ai/newsletter', target:'_self' },
         ]
     },
     /* using this Google Analytics Plugin makes metomic's autoblock impossible
