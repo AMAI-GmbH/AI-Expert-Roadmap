@@ -134,7 +134,7 @@ module.exports = {
     ],
     extendMarkdown(md) {
         // SVG embedding for clickable images
-        var defaultRender = md.renderer.rules.image;
+        /*var defaultRender = md.renderer.rules.image;
         md.renderer.rules.image = function (tokens, idx, options, env, self) {
             var token = tokens[idx],
                 aIndex = token.attrIndex('src'),
@@ -149,7 +149,7 @@ module.exports = {
             }
             return defaultRender(tokens, idx, options, env, self);
         }
-
+*/
         md.use(container, 'example', {
             render: (tokens, idx) => tokens[idx].nesting === 1 ?
                 `<Example title="${tokens[idx].info.trim().slice('upgrade'.length).trim()}">` : '</Example>'
@@ -158,5 +158,68 @@ module.exports = {
             render: (tokens, idx) => tokens[idx].nesting === 1 ?
                 `<Youtube>` : '</Youtube>'
         })
-    }
-}
+
+        const render = md.render;
+
+        md.render = (...args) => {
+            // original content
+            var html = render.call(md, ...args);
+            
+            // Replace Github links to i.am.ai/roadmap in the roadmap
+            html = html.replace(/<a[[\s]+([^>]+)>((?:.|\s)*?)<\/a>/g, function(match, p1, p2) {
+                if(p1.startsWith('href="https://i.am.ai/roadmap#')) {
+                    return p2;
+                }
+                return match
+            });
+
+            // SVG embedding for clickable images
+            html = html.replace(/<img\s[^>]*?src\s*=\s*['\"]([^'\"]*?)['\"][^>]*?>/g, function(match, p1) {
+                if(p1.startsWith("./images/") && p1.endsWith(".svg") && !p1.startsWith("./images/logos")) {
+                    var svg = fs.readFileSync(p1, 'utf8');
+                    svg = svg.replace(/<\?xml.+\?>|<!DOCTYPE.+>/g, '')
+                    // make links open in new window
+                    svg = svg.replace(/target=\"_blank\"/isg, "");
+                    svg = svg.replace(/(<a[^<>]*xlink:href=['\"]?http[^<>]+)>/isg, "$1 target=\"_blank\">");
+                    return svg;
+                }
+                return match
+            });
+
+
+//  <a href="https://i.am.ai/roadmap#introduction" target="_blank">
+
+            return html
+        };
+    }/*,
+    chainWebpack: config => {
+        // Each loader in the chain applies transformations to the processed resource:
+        config.module
+          .rule('md')
+          .test(/\.md$/)
+          .use("string-replace-loader")
+          .loader("string-replace-loader")
+          .options({
+            multiple: [{
+                search: /\[(.+)\]\([^ ]+?( "(.+)")?\)/g,
+                replace: (match, p1, offset, string, groups) => `${p1}`
+              },
+              {
+                search: /<img\s[^>]*?src\s*=\s*['\"]([^'\"]*?)['\"][^>]*?>/g,
+                replace: (match, p1, offset, string, groups) => {
+                    if (p1.startsWith("./") && p1.endsWith(".svg")) {
+                        var svg = fs.readFileSync(p1, 'utf8');
+                        svg = svg.replace(/<\?xml.+\?>|<!DOCTYPE.+>/g, '')
+                        // make links open in new window
+                        svg = svg.replace(/target=\"_blank\"/isg, "");
+                        svg = svg.replace(/(<a[^<>]*xlink:href=['\"]?http[^<>]+)>/isg, "$1 target=\"_blank\">");
+                        return svg;
+                    }
+                    return string
+                }
+              }
+            ],
+          }, )
+          .end()
+      },*/
+    };

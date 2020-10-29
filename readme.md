@@ -31,27 +31,51 @@ An interactive version of the following maps can be found at [i.am.ai](https://i
 
 ## Introduction
 
-[![AI Expert Roadmap Introduction](./images/intro.svg)](https://i.am.ai/roadmap#introduction)
+<p align="center">
+  <a href="https://i.am.ai/roadmap#introduction" target="_blank">
+      <img src="./images/intro.svg"/>
+  </a>
+</p>
 
 ## Data Science Roadmap
 
-[![Data Science Roadmap](./images/datascience.svg)](https://i.am.ai/roadmap#data-science-roadmap)
+<p align="center">
+  <a href="https://i.am.ai/roadmap#data-science-roadmap" target="_blank">
+      <img src="./images/datascience.svg"/>
+  </a>
+</p>
 
 ## Machine Learning Roadmap
 
-[![Machine Learning Roadmap](./images/machine_learning.svg)](https://i.am.ai/roadmap#machine-learning-roadmap)
+<p align="center">
+  <a href="https://i.am.ai/roadmap#machine-learning-roadmap" target="_blank">
+      <img src="./images/machine_learning.svg"/>
+  </a>
+</p>
 
 ## Deep Learning Roadmap
 
-[![Deep Learning Roadmap](./images/deep_learning.svg)](https://i.am.ai/roadmap#deep-learning-roadmap)
+<p align="center">
+  <a href="https://i.am.ai/roadmap#deep-learning-roadmap" target="_blank">
+      <img src="./images/deep_learning.svg"/>
+  </a>
+</p>
 
 ## Data Engineer Roadmap
 
-[![Data Engineer Roadmap](./images/data_engineer.svg)](https://i.am.ai/roadmap#data-engineer-roadmap)
+<p align="center">
+  <a href="https://i.am.ai/roadmap#data-engineer-roadmap" target="_blank">
+      <img src="./images/data_engineer.svg"/>
+  </a>
+</p>
 
 ## Big Data Engineer Roadmap
 
-[![Big Data Roadmap](./images/big_data_engineer.svg)](https://i.am.ai/roadmap#big-data-engineer-roadmap)
+<p align="center">
+  <a href="https://i.am.ai/roadmap#big-data-engineer-roadmap" target="_blank">
+      <img src="./images/big_data_engineer.svg"/>
+  </a>
+</p>
 
 ## 🚦 Wrap Up
 
@@ -68,5 +92,5 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 ## Supported By
 
-<a href="https://am.ai" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;    margin-right: 40px;"/></a>
-<a href="https://digitalhub-ai.de/" target="_blank"><img alt="AMAI GmbH" src="./images/logos/de-hub.svg" style="display: inherit;max-width: 150px;"/></a>
+<a href="https://am.ai" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;"/></a>
+<a href="https://digitalhub-ai.de/" target="_blank"><img alt="AMAI GmbH" src="./images/logos/de-hub.svg" style="display: inherit; max-width: 150px;"/></a>
