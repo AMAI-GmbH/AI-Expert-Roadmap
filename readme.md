@@ -23,9 +23,9 @@ If your are interested to become an AI EXPERT at [AMAI](https://am.ai) in German
 > The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job.
 
 ---
-## **NOTE**
+## Interactive version
 
-An interactive version of the following maps can be found at [i.am.ai](https://i.am.ai/roadmap)
+👉 An **interactive version with links to follow** about each bullet of the list can be found at [i.am.ai/roadmap](https://i.am.ai/roadmap) 👈
 
 ---
 
