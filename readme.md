@@ -23,9 +23,11 @@ If your are interested to become an AI EXPERT at [AMAI](https://am.ai) in German
 > The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job.
 
 ---
-## Interactive version
+## Note
 
 👉 An **interactive version with links to follow** about each bullet of the list can be found at [i.am.ai/roadmap](https://i.am.ai/roadmap) 👈
+
+To receive updates [star :star:](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/) to get notified, when we add new content to stay on the top of the most recent research.
 
 ---
 
