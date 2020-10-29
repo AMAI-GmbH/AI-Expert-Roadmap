@@ -133,23 +133,6 @@ module.exports = {
           
     ],
     extendMarkdown(md) {
-        // SVG embedding for clickable images
-        /*var defaultRender = md.renderer.rules.image;
-        md.renderer.rules.image = function (tokens, idx, options, env, self) {
-            var token = tokens[idx],
-                aIndex = token.attrIndex('src'),
-                url = token.attrs[aIndex][1];
-            if (url.startsWith("./") && url.endsWith(".svg")) {
-                var svg = fs.readFileSync(url, 'utf8');
-                svg = svg.replace(/<\?xml.+\?>|<!DOCTYPE.+>/g, '')
-                // make links open in new window
-                svg = svg.replace(/target=\"_blank\"/isg, "");
-                svg = svg.replace(/(<a[^<>]*xlink:href=['\"]?http[^<>]+)>/isg, "$1 target=\"_blank\">");
-                return svg;
-            }
-            return defaultRender(tokens, idx, options, env, self);
-        }
-*/
         md.use(container, 'example', {
             render: (tokens, idx) => tokens[idx].nesting === 1 ?
                 `<Example title="${tokens[idx].info.trim().slice('upgrade'.length).trim()}">` : '</Example>'
@@ -160,7 +143,6 @@ module.exports = {
         })
 
         const render = md.render;
-
         md.render = (...args) => {
             // original content
             var html = render.call(md, ...args);
@@ -186,40 +168,7 @@ module.exports = {
                 return match
             });
 
-
-//  <a href="https://i.am.ai/roadmap#introduction" target="_blank">
-
             return html
         };
-    }/*,
-    chainWebpack: config => {
-        // Each loader in the chain applies transformations to the processed resource:
-        config.module
-          .rule('md')
-          .test(/\.md$/)
-          .use("string-replace-loader")
-          .loader("string-replace-loader")
-          .options({
-            multiple: [{
-                search: /\[(.+)\]\([^ ]+?( "(.+)")?\)/g,
-                replace: (match, p1, offset, string, groups) => `${p1}`
-              },
-              {
-                search: /<img\s[^>]*?src\s*=\s*['\"]([^'\"]*?)['\"][^>]*?>/g,
-                replace: (match, p1, offset, string, groups) => {
-                    if (p1.startsWith("./") && p1.endsWith(".svg")) {
-                        var svg = fs.readFileSync(p1, 'utf8');
-                        svg = svg.replace(/<\?xml.+\?>|<!DOCTYPE.+>/g, '')
-                        // make links open in new window
-                        svg = svg.replace(/target=\"_blank\"/isg, "");
-                        svg = svg.replace(/(<a[^<>]*xlink:href=['\"]?http[^<>]+)>/isg, "$1 target=\"_blank\">");
-                        return svg;
-                    }
-                    return string
-                }
-              }
-            ],
-          }, )
-          .end()
-      },*/
-    };
+    }
+};
