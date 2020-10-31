@@ -1,6 +1,7 @@
-<mxfile modified="2020-10-24T21:34:07.881Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8r6Zh9X0Moa9g25WZztw" compressed="false" version="13.8.1" type="device">
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile modified="2020-10-31T16:43:53.621Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="874idReI6j0PeFbqNjRG" compressed="false" version="13.8.8" type="device">
   <diagram id="tnxyiyi4WRpZzoaliO9H" name="Page-2">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="590" pageHeight="1285" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1073" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="590" pageHeight="1285" math="0" shadow="0">
       <root>
         <mxCell id="6rCNIvlzMnQTXOo2ZaPR-0" />
         <mxCell id="6rCNIvlzMnQTXOo2ZaPR-1" parent="6rCNIvlzMnQTXOo2ZaPR-0" />
@@ -105,7 +106,7 @@
             <mxGeometry x="85" y="173" width="180" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-134" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Priciples&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
+        <mxCell id="6rCNIvlzMnQTXOo2ZaPR-134" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Principles&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
           <mxGeometry x="395.5" y="273.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6rCNIvlzMnQTXOo2ZaPR-135" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Tools&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="6rCNIvlzMnQTXOo2ZaPR-1" vertex="1">
