@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2020-10-31T16:30:41.360Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="BbCjjHxieJAYWqPV9qsZ" compressed="false" version="13.8.8" type="device">
+<mxfile modified="2020-10-31T16:32:36.430Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YUNszDzHKhie_HnkkP80" compressed="false" version="13.8.8" type="device">
   <diagram id="rtSr3QTENstnuI61b4uq" name="Page-1">
-    <mxGraphModel dx="786" dy="1130" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1073" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -895,6 +895,22 @@
         </mxCell>
         <mxCell id="i9OERWlP8GrdBMv_NWYt-31" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Data Sources&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="415" y="1300" width="110" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RTNuT0qv83HE0F3EV0GY-2" value="&lt;font style=&quot;font-size: 10px&quot; color=&quot;#999999&quot;&gt;Some boxes link to additional ressources&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="35" y="248" width="204" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="axYppKmcBhjd9RSlsNxy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;strokeColor=#FF8000;dashed=1;dashPattern=1 2;shadow=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.26" y="385" as="targetPoint" />
+            <mxPoint x="140" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="140" y="310" />
+              <mxPoint x="140" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTNuT0qv83HE0F3EV0GY-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Interactive version on&lt;br&gt;&lt;a href=&quot;https://i.am.ai/roadmap/&quot; style=&quot;font-weight: bold&quot;&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 16px&quot;&gt;i.am.ai/roadmap&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="35" y="270" width="204" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
