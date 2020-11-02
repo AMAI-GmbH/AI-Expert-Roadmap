@@ -16,7 +16,7 @@
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an ai expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
 
-If your are interested to become an AI EXPERT at [AMAI](https://am.ai) in Germany, or you want to hire an AI Expert, please say [hi@am.ai](mailto:hi@am.ai).
+If you are interested to become an AI EXPERT at [AMAI](https://am.ai) in Germany, or you want to hire an AI Expert, please say [hi@am.ai](mailto:hi@am.ai).
 
 ## Note
 
