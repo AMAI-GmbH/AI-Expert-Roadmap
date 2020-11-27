@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2020-10-31T16:32:36.430Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YUNszDzHKhie_HnkkP80" compressed="false" version="13.8.8" type="device">
+<mxfile modified="2020-11-10T13:57:20.397Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.93 Safari/537.36 Vivaldi/2.8.1664.40" etag="ZjEDLhJSepY8Nf5ni6Wv" compressed="false" version="13.7.5" type="device">
   <diagram id="rtSr3QTENstnuI61b4uq" name="Page-1">
-    <mxGraphModel dx="786" dy="1073" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="773" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,9 +26,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cq76QrIc5dfTi0YlTipQ-5" value="Matrices &amp;amp; Linear Algebra Fundamentals" style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="259" y="200" width="170" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="Matrices &amp;amp; Linear Algebra Fundamentals" link="https://www.khanacademy.org/math/linear-algebra" id="Cq76QrIc5dfTi0YlTipQ-5">
+          <mxCell style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="259" y="200" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Cq76QrIc5dfTi0YlTipQ-186" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;textDirection=ltr;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-6" target="Cq76QrIc5dfTi0YlTipQ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -439,12 +441,12 @@
             <mxGeometry x="177" y="875" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;font-size: 10px&quot;&gt;Maximum Likelihood Estimation (MLE)&lt;/span&gt;" link="https://en.wikipedia.org/wiki/Kernel_density_estimation" id="Cq76QrIc5dfTi0YlTipQ-170">
+        <UserObject label="&lt;span style=&quot;font-size: 10px&quot;&gt;Maximum Likelihood Estimation (MLE)&lt;/span&gt;" link="https://en.wikipedia.org/wiki/Maximum_likelihood_estimation" id="Cq76QrIc5dfTi0YlTipQ-170">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="132" y="940" width="185" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;font-size: 10px&quot;&gt;Kernel Density Estimation (KDE)&lt;/span&gt;" link="https://en.wikipedia.org/wiki/Central_limit_theorem" id="Cq76QrIc5dfTi0YlTipQ-171">
+        <UserObject label="&lt;span style=&quot;font-size: 10px&quot;&gt;Kernel Density Estimation (KDE)&lt;/span&gt;" link="https://en.wikipedia.org/wiki/Kernel_density_estimation" id="Cq76QrIc5dfTi0YlTipQ-171">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="132" y="970" width="185" height="20" as="geometry" />
           </mxCell>
