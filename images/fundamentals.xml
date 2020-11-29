@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2020-11-29T10:12:03.307Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="JkolCXoWRb5FjKhfvejh" compressed="false" version="13.10.4" type="device">
+<mxfile modified="2020-11-29T18:43:35.402Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="4NUTBqsMpolDBtyhk68L" compressed="false" version="13.10.4" type="device">
   <diagram id="rtSr3QTENstnuI61b4uq" name="Page-1">
-    <mxGraphModel dx="786" dy="1072" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="589" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,7 +218,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;span style=&quot;font-size: 10px&quot;&gt;Pandas&lt;/span&gt;" link="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html" id="Cq76QrIc5dfTi0YlTipQ-212">
+        <UserObject label="&lt;span style=&quot;font-size: 10px&quot;&gt;Pandas&lt;/span&gt;" link="https://pandas.pydata.org/pandas-docs/stable/getting_started/" id="Cq76QrIc5dfTi0YlTipQ-212">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="598.5" y="706" width="140" height="20" as="geometry" />
           </mxCell>
@@ -353,12 +353,12 @@
           <mxGeometry x="464" y="1653" width="150" height="45" as="geometry" />
         </mxCell>
         <UserObject label="Data Mining" link="https://www.dummies.com/programming/big-data/data-science/data-mining-for-dummies-cheat-sheet/" id="20nADvUfljp0ZlTacGp7-1">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="485" y="865" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Web Scraping" link="https://towardsdatascience.com/big-data-what-is-web-scraping-and-how-to-use-it-74e7e8b58fd6" id="20nADvUfljp0ZlTacGp7-2">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="485" y="900" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
