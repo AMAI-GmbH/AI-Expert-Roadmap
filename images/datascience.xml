@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2020-11-28T00:34:35.676Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="qfYFdZ3HO51JmYM9gTPu" compressed="false" version="13.10.4" type="device">
+<mxfile modified="2020-11-29T10:16:55.651Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="1QxlQgKkS6ffYTzBUgUL" compressed="false" version="13.10.4" type="device">
   <diagram id="rtSr3QTENstnuI61b4uq" name="Page-1">
-    <mxGraphModel dx="786" dy="1072" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="374" dy="510" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,12 +424,12 @@
         </UserObject>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;Matplotlib&lt;/font&gt;" link="https://matplotlib.org/" id="Cq76QrIc5dfTi0YlTipQ-244">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="800" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="800" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;plotnine (like ggplot in R)&lt;/font&gt;" link="https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5" id="Cq76QrIc5dfTi0YlTipQ-245">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="831" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="826" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Cq76QrIc5dfTi0YlTipQ-252" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-246" target="i9OERWlP8GrdBMv_NWYt-13" edge="1">
@@ -439,7 +439,7 @@
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;Vega-Lite&lt;/font&gt;" link="https://vega.github.io/vega-lite/" id="Cq76QrIc5dfTi0YlTipQ-246">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="940" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="940" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Cq76QrIc5dfTi0YlTipQ-253" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-247" target="i9OERWlP8GrdBMv_NWYt-13" edge="1">
@@ -447,7 +447,7 @@
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;D3.js&lt;/font&gt;" link="https://d3js.org/" id="Cq76QrIc5dfTi0YlTipQ-247">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="970" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="970" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Cq76QrIc5dfTi0YlTipQ-254" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-248" target="i9OERWlP8GrdBMv_NWYt-15" edge="1">
@@ -455,7 +455,7 @@
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;Tableau&lt;/font&gt;" link="https://www.tableau.com/" id="Cq76QrIc5dfTi0YlTipQ-248">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="1034" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="1034" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Cq76QrIc5dfTi0YlTipQ-255" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-249" target="i9OERWlP8GrdBMv_NWYt-14" edge="1">
@@ -463,7 +463,7 @@
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;Dash&lt;br&gt;&lt;/font&gt;" link="https://plot.ly/dash/" id="Cq76QrIc5dfTi0YlTipQ-249">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="1000" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="1000" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Cq76QrIc5dfTi0YlTipQ-258" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Visualization&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
@@ -498,7 +498,7 @@
         </UserObject>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;PowerBI&lt;/font&gt;" link="https://powerbi.microsoft.com" id="i9OERWlP8GrdBMv_NWYt-16">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="1064" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="1064" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="i9OERWlP8GrdBMv_NWYt-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;" parent="1" source="i9OERWlP8GrdBMv_NWYt-16" target="i9OERWlP8GrdBMv_NWYt-15" edge="1">
@@ -509,18 +509,23 @@
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;seaborn&lt;/font&gt;" id="i9OERWlP8GrdBMv_NWYt-19">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="487" y="881" width="145" height="20" as="geometry" />
+            <mxGeometry x="487" y="876" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="i9OERWlP8GrdBMv_NWYt-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-233" target="i9OERWlP8GrdBMv_NWYt-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="901" as="sourcePoint" />
             <mxPoint x="485" y="896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="896" />
+              <mxPoint x="465" y="885" />
+              <mxPoint x="487" y="885" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;ipyvolume (3D data)&lt;/font&gt;" link="https://github.com/maartenbreddels/ipyvolume" id="i9OERWlP8GrdBMv_NWYt-21">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="487" y="905" width="143" height="20" as="geometry" />
+            <mxGeometry x="487" y="900" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="i9OERWlP8GrdBMv_NWYt-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Cq76QrIc5dfTi0YlTipQ-233" target="i9OERWlP8GrdBMv_NWYt-21" edge="1">
@@ -562,10 +567,20 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;font face=&quot;sans-serif&quot;&gt;Bokeh&lt;/font&gt;" link="https://docs.bokeh.org/en/latest/index.html" id="54BXIMB1HT9zFDCucoSp-4">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="1">
-            <mxGeometry x="487" y="856" width="145" height="20" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="487" y="851" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Vvn9S6vuDq5gVfwxYzGB-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=10;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cq76QrIc5dfTi0YlTipQ-233" target="54BXIMB1HT9zFDCucoSp-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="901" as="sourcePoint" />
+            <mxPoint x="492" y="841" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="896" />
+              <mxPoint x="465" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
