@@ -23,7 +23,7 @@ jobs:
         CI: true
     - run: npm run export
       env:
-        EXPORT_PDF: true
+        EXPORT_PDF: True
         CI: true
     - name: Azure Login
       uses: azure/login@v1
