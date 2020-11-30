@@ -48,27 +48,27 @@ module.exports = {
     },*/
 
     head: [
-        ...(process.env.EXPORT_PDF !== 'True' ? ['script', {
+        process.env.EXPORT_PDF !== 'True' ? ['script', {
             src: 'https://config.metomic.io/config.js?id=prj:c5c07948-cf96-4555-99ec-3a9bf5ae16ce', 
             crossorigin: 'anonymous',
             charset: 'utf-8'
-        }] : []),
-        ...(process.env.EXPORT_PDF !== 'True' ? ['script', {
+        }] : ['script', {}],
+        process.env.EXPORT_PDF !== 'True' ? ['script', {
             src: 'https://consent-manager.metomic.io/embed.js', 
             crossorigin: 'anonymous',
             charset: 'utf-8'
-        }] : []),
-        ...(process.env.EXPORT_PDF !== 'True' ? ['script', {
+        }] : ['script', {}],
+        process.env.EXPORT_PDF !== 'True' ? ['script', {
             async: true,
             src: 'https://www.googletagmanager.com/gtag/js?id=UA-131730139-2'
-        }] : []),
-        ...(process.env.EXPORT_PDF !== 'True' ? ['script', {}, `
+        }] : ['script', {}],
+        process.env.EXPORT_PDF !== 'True' ? ['script', {}, `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
         
             gtag('config', 'UA-131730139-2');
-        `] : []),
+        `] : ['script', {}],
         ['link', {
             rel: 'icon',
             href: `/logos/icon-512x512.png`
