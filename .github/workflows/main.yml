@@ -20,7 +20,11 @@ jobs:
     - run: npm install
     - run: npm run build --if-present
       env:
-        CI: true        
+        CI: true
+    - run: npm run export
+      env:
+        EXPORT_PDF: true
+        CI: true
     - name: Azure Login
       uses: azure/login@v1
       with:
