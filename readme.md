@@ -36,6 +36,14 @@ The purpose of these roadmaps is to give you an idea about the landscape and to 
   </a>
 </p>
 
+## Fundamentals
+
+<p align="center">
+  <a href="https://i.am.ai/roadmap#fundamentals" target="_blank">
+      <img src="./images/fundamentals.svg"/>
+  </a>
+</p>
+
 ## Data Science Roadmap
 
 <p align="center">
