@@ -24,7 +24,7 @@ module.exports = {
             { text: 'AI Newsletter', link: 'https://i.am.ai/newsletter', target:'_self' },
         ]
     },
-    patterns: process.env.EXPORT_PDF === 'True' ? ['readme.md'] :  ['**/*.md', '**/*.vue'],
+    patterns: process.env.EXPORT_PDF ? ['readme.md'] :  ['**/*.md', '**/*.vue'],
     plugins: ['@snowdog/vuepress-plugin-pdf-export', {
         puppeteerLaunchOptions: {
           args: ['--no-sandbox', '--disable-setuid-sandbox']
@@ -48,27 +48,27 @@ module.exports = {
     },*/
 
     head: [
-        process.env.EXPORT_PDF === 'True' ? [] : ['script', {
+        ...(!process.env.EXPORT_PDF ? ['script', {
             src: 'https://config.metomic.io/config.js?id=prj:c5c07948-cf96-4555-99ec-3a9bf5ae16ce', 
             crossorigin: 'anonymous',
             charset: 'utf-8'
-        }],
-        process.env.EXPORT_PDF === 'True' ? [] :['script', {
+        }] : []),
+        ...(!process.env.EXPORT_PDF ? ['script', {
             src: 'https://consent-manager.metomic.io/embed.js', 
             crossorigin: 'anonymous',
             charset: 'utf-8'
-        }],
-        process.env.EXPORT_PDF === 'True' ? [] :['script', {
+        }] : []),
+        ...(!process.env.EXPORT_PDF ? ['script', {
             async: true,
             src: 'https://www.googletagmanager.com/gtag/js?id=UA-131730139-2'
-        }],
-        process.env.EXPORT_PDF === 'True' ? [] :['script', {}, `
+        }] : []),
+        ...(!process.env.EXPORT_PDF ? ['script', {}, `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
         
             gtag('config', 'UA-131730139-2');
-        `],
+        `] : []),
         ['link', {
             rel: 'icon',
             href: `/logos/icon-512x512.png`
