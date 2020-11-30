@@ -24,7 +24,7 @@ module.exports = {
             { text: 'AI Newsletter', link: 'https://i.am.ai/newsletter', target:'_self' },
         ]
     },
-    patterns: process.env.EXPORT_PDF === 'True' ? ['**/*.md', '!.md'] :  ['**/*.md', '**/*.vue'],
+    patterns: process.env.EXPORT_PDF === 'True' ? ['readme.md'] : ['**/*.md', '**/*.vue'],
     plugins: ['@snowdog/vuepress-plugin-pdf-export', {
         puppeteerLaunchOptions: {
           args: ['--no-sandbox', '--disable-setuid-sandbox']

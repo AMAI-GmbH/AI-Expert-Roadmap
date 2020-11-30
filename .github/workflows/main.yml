@@ -29,19 +29,19 @@ jobs:
       uses: azure/login@v1
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS }}    
-    - name: Azure CLI script
+    - name: Upload to Azure
       uses: azure/CLI@v1
       with:
         azcliversion: 2.0.72
         inlineScript: |
             az storage blob upload-batch -s public/roadmap -d \$web/roadmap --account-name iamai --content-cache-control 'public,max-age=3600'
-    - name: Azure CLI script
+    - name: Purge Azure CDN
       uses: azure/CLI@v1
       with:
         azcliversion: 2.0.72
         inlineScript: |
           az cdn endpoint purge --content-paths  "/*" --profile-name "i-am-ai" --name "i-am-ai" --resource-group "Productive"
         # Azure logout 
-    - name: logout
+    - name: Azure Logout
       run: |
             az logout
