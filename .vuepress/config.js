@@ -22,6 +22,7 @@ module.exports = {
             { text: 'AI Use Cases', link: 'https://i.am.ai/usecases', target:'_self' },
             { text: 'AI Roadmap', link: '/' },
             { text: 'AI Newsletter', link: 'https://i.am.ai/newsletter', target:'_self' },
+            { text: 'Hire AI Experts', link: 'https://am.ai?utm_source=i.am.ai&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Experts+Navbar', target:'_blank' },
         ]
     },
     patterns: process.env.EXPORT_PDF === 'True' ? ['readme.md'] : ['**/*.md', '**/*.vue'],
