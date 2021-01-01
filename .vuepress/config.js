@@ -22,8 +22,15 @@ module.exports = {
             { text: 'AI Use Cases', link: 'https://i.am.ai/usecases', target:'_self' },
             { text: 'AI Roadmap', link: '/' },
             { text: 'AI Newsletter', link: 'https://i.am.ai/newsletter', target:'_self' },
+            { text: 'Hire AI Experts', link: 'https://am.ai?utm_source=i.am.ai&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Experts+Navbar', target:'_blank' },
         ]
     },
+    patterns: process.env.EXPORT_PDF === 'True' ? ['readme.md'] : ['**/*.md', '**/*.vue'],
+    plugins: ['@snowdog/vuepress-plugin-pdf-export', {
+        puppeteerLaunchOptions: {
+          args: ['--no-sandbox', '--disable-setuid-sandbox']
+        }
+      }],
     /* using this Google Analytics Plugin makes metomic's autoblock impossible
     
     plugins: {
@@ -42,28 +49,12 @@ module.exports = {
     },*/
 
     head: [
-        ['script', {
-            src: 'https://config.metomic.io/config.js?id=prj:c5c07948-cf96-4555-99ec-3a9bf5ae16ce', 
-            crossorigin: 'anonymous',
-            charset: 'utf-8'
-        }],
-        ['script', {
-            src: 'https://consent-manager.metomic.io/embed.js', 
-            crossorigin: 'anonymous',
-            charset: 'utf-8'
-        }],
-        ['script', {
+        process.env.EXPORT_PDF !== 'True' ? ['script', {
             async: true,
-            src: 'https://www.googletagmanager.com/gtag/js?id=UA-131730139-2'
-        }],
-        ['script', {}, `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-        
-            gtag('config', 'UA-131730139-2');
-        `],
-        
+            defer: true,
+            "data-domain": "i.am.ai",
+            src: 'https://stats.am.ai/js/plausible.outbound-links.js'
+        }] : ['script', {}],
         ['link', {
             rel: 'icon',
             href: `/logos/icon-512x512.png`
