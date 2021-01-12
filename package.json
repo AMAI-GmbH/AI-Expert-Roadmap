@@ -5,7 +5,7 @@
   "scripts": {
     "start": "vuepress dev . --no-cache",
     "build": "vuepress build . --no-cache",
-    "export": "EXPORT_PDF=True && vuepress export && mv site.pdf ./public/roadmap/AI_Expert_Roadmap_2020.pdf"
+    "export": "EXPORT_PDF=True && vuepress export && mv site.pdf ./public/roadmap/AI_Expert_Roadmap_2021.pdf"
   },
   "author": "Jürgen Stumpp",
   "devDependencies": {
