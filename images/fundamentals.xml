@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2020-12-03T21:48:13.555Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="idMNYGAMmGJqUX5SbNoa" compressed="false" version="13.10.7" type="device">
+<mxfile modified="2021-01-19T16:11:40.530Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Ln4e9leT5F9lNXyrEfEt" compressed="false" version="13.10.4" type="device">
   <diagram id="rtSr3QTENstnuI61b4uq" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,7 +268,7 @@
             <mxGeometry x="321" y="1366" width="170" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Denoising" link="https://medium.com/analytics-vidhya/dealing-with-noisy-data-in-data-science-e177a4e32621" id="Cq76QrIc5dfTi0YlTipQ-264">
+        <UserObject label="Denoising" link="https://yusout.com/2019/04/29/dealing-with-noisy-data-in-data-science/" id="Cq76QrIc5dfTi0YlTipQ-264">
           <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontColor=#FFFFFF;fillColor=#1F6286;textDirection=ltr;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="321" y="1411" width="170" height="30" as="geometry" />
           </mxCell>
