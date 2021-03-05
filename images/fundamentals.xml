@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2021-01-19T16:11:40.530Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Ln4e9leT5F9lNXyrEfEt" compressed="false" version="13.10.4" type="device">
+<mxfile modified="2021-03-05T15:49:19.478Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="_uz0Kk7wXTIXvWMaiXO8" compressed="false" version="14.4.4" type="device">
   <diagram id="rtSr3QTENstnuI61b4uq" name="Page-1">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1072" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Matrices &amp;amp; Linear Algebra Fundamentals" link="https://www.khanacademy.org/math/linear-algebra" id="Cq76QrIc5dfTi0YlTipQ-5">
-          <mxCell style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxCell style="rounded=1;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;whiteSpace=wrap;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="259" y="200" width="170" height="40" as="geometry" />
           </mxCell>
         </UserObject>
