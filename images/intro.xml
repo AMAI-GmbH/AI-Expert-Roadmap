@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile modified="2021-01-01T22:15:09.666Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4zaEjmSddBM2q2-XnUGK" compressed="false" version="14.1.7" type="device">
+<mxfile modified="2021-03-05T15:41:27.452Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="96YZ6k3W0rIOUKlDg9Xn" compressed="false" version="14.4.4" type="device">
   <diagram id="-Y90kLDtCIYLgzMOPb3_" name="Page-1">
-    <mxGraphModel dx="946" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="459" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="459" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Data Scientist&lt;br&gt;" link="#data-science-roadmap" id="3oOMFXwpDthQT0sGTSB_-14">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="270" y="240" width="111" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -37,17 +37,17 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Big Data Engineer&lt;br&gt;" link="#big-data-engineer-roadmap" id="3oOMFXwpDthQT0sGTSB_-17">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="449" y="301" width="111" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Machine Learning&lt;br&gt;" link="#machine-learning-roadmap" id="3oOMFXwpDthQT0sGTSB_-21">
-          <mxCell style="rounded=1;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxCell style="rounded=1;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;whiteSpace=wrap;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="270" y="301" width="111" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Deep Learning&lt;br&gt;" link="#deep-learning-roadmap" id="3oOMFXwpDthQT0sGTSB_-22">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="270" y="361" width="111" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Data Engineer&lt;br&gt;" link="#data-engineer-roadmap" id="3oOMFXwpDthQT0sGTSB_-28">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="449" y="240" width="111" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -114,7 +114,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Fundamentals" link="#fundamentals" id="qldJKWdAueBzsav_uKPz-1">
-          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#878787;strokeColor=#000000;fontColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
             <mxGeometry x="369" y="90" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
