@@ -16,7 +16,7 @@
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an ai expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
 
-If you are interested to become an AI EXPERT at [AMAI](https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Become+Expert) in Germany, or you want to [hire an AI Expert](https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Expert), please say [hi@am.ai](mailto:hi@am.ai).
+If you are interested to become an AI EXPERT at [AMAI](https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Become+Expert) in Germany, or you want to [hire an AI Expert](https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Expert), please say [hi@am.ai](mailto:hi@am.ai).
 
 ## Note
 
@@ -99,5 +99,5 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 ## Supported By
 
-<a href="https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+SupportedBy" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;"/></a>
+<a href="https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+SupportedBy" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;"/></a>
 <a href="https://digitalhub-ai.de?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap" target="_blank"><img alt="AMAI GmbH" src="./images/logos/de-hub.svg" style="display: inherit; max-width: 150px;"/></a>
