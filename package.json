@@ -9,7 +9,7 @@
   },
   "author": "Jürgen Stumpp",
   "devDependencies": {
-    "vuepress": "^1.6.0",
+    "vuepress": "^1.9.2",
     "@snowdog/vuepress-plugin-pdf-export": "^1.1.0"
   },
   "main": "index.js",
