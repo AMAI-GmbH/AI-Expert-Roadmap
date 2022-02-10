@@ -32,16 +32,21 @@ jobs:
     - name: Upload to Azure
       uses: azure/CLI@v1
       with:
-        azcliversion: 2.0.72
+        azcliversion: 2.33.0
         inlineScript: |
             az storage blob upload-batch -s public/roadmap -d \$web/roadmap --account-name iamai --content-cache-control 'public,max-age=3600'
     - name: Purge Azure CDN
       uses: azure/CLI@v1
       with:
-        azcliversion: 2.0.72
+        azcliversion: 2.33.0
         inlineScript: |
           az cdn endpoint purge --content-paths  "/*" --profile-name "i-am-ai" --name "i-am-ai" --resource-group "Productive"
         # Azure logout 
     - name: Azure Logout
-      run: |
-            az logout
+      uses: azure/CLI@v1
+      with:
+        azcliversion: 2.33.0
+        inlineScript: |
+          az logout
+          az cache purge
+          az account clear
