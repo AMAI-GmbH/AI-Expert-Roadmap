@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-02-26T06:47:18.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.56" etag="FqypafUKEogrUP7N_SIp" version="20.8.23" type="device">
+  <diagram name="Page-1" id="-WQWqBCX-AG4nSwLRSam">
+    <mxGraphModel dx="1849" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DxMAAfgvp_XXSLU93iEa-1" value="" style="curved=1;endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#1F6286;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" as="sourcePoint" />
+            <mxPoint x="267" y="101" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="296" y="20" />
+              <mxPoint x="236" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DxMAAfgvp_XXSLU93iEa-2" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Reinforcement &lt;br&gt;Learning&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=nowrap;html=1;strokeColor=none;textDirection=ltr;fontSize=24;fontStyle=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="156" y="100.5" width="221" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DxMAAfgvp_XXSLU93iEa-4" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Basics - I&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="80" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Understanding &lt;br&gt;What is RL" link="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf" linkTarget="_blank" id="DxMAAfgvp_XXSLU93iEa-5">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="140" y="210" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DxMAAfgvp_XXSLU93iEa-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#1F6286;fontSize=11;fontColor=#000000;" parent="1" source="DxMAAfgvp_XXSLU93iEa-2" target="DxMAAfgvp_XXSLU93iEa-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="161" y="340" as="sourcePoint" />
+            <mxPoint x="291" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Key concepts &lt;br&gt;and terminology" link="https://towardsdatascience.com/reinforcement-learning-an-introduction-to-the-concepts-applications-and-code-ced6fbfd882d#:~:text=Reinforcement%20learning%20is%20the%20science,is%20sequential%20with%20delayed%20feedback." linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-1">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="260" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Applications of&amp;nbsp;&lt;br&gt;Reinforcement Learning" link="https://www.v7labs.com/blog/reinforcement-learning-applications#:~:text=Reinforcement%20Learning%20is%20used%20in,to%20answer%20the%20corresponding%20questions." linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-3">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="310" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="340" width="377" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="References -&amp;gt;" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-4">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-14">
+            <mxGeometry y="20" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fontSize=11;fontColor=#000000;dashed=1;dashPattern=1 4;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="60" as="sourcePoint" />
+            <mxPoint x="170" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="60" />
+              <mxPoint x="210" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Reinforcement learning: &lt;br&gt;An introduction" link="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-9">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-14">
+            <mxGeometry x="237" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;shadow=0;sketch=0;strokeColor=#6c8ebf;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-14" source="_dNd2XN51jk64DEOmk3G-4" target="_dNd2XN51jk64DEOmk3G-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="20" as="sourcePoint" />
+            <mxPoint x="230" y="-30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="30" />
+              <mxPoint x="230" y="7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Mastering the &lt;br&gt;Game of GO" link="https://www.researchgate.net/publication/292074166_Mastering_the_game_of_Go_with_deep_neural_networks_and_tree_search" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-13">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-14">
+            <mxGeometry x="237" y="40" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Markov Decision Processes" id="_dNd2XN51jk64DEOmk3G-16">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="500" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-17" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Basics - II&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Bellman Equations and &lt;br&gt;Value Functions" id="_dNd2XN51jk64DEOmk3G-18">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="550" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Policy iteration &amp;amp;&lt;br&gt;value iteration" id="_dNd2XN51jk64DEOmk3G-19">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="600" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Bandit Optimalities" link="https://www.v7labs.com/blog/reinforcement-learning-applications#:~:text=Reinforcement%20Learning%20is%20used%20in,to%20answer%20the%20corresponding%20questions." linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-20">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="450" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Basics - III&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="710" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Q-Learning" id="_dNd2XN51jk64DEOmk3G-22">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="740" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Exploration vs. &lt;br&gt;exploitation trade-off" id="_dNd2XN51jk64DEOmk3G-23">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="790" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Convergence of Q-learning" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-24">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="840" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="630" width="430" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="References -&amp;gt;" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-26">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-25">
+            <mxGeometry y="20" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fontSize=11;fontColor=#000000;dashed=1;dashPattern=1 4;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="60" as="sourcePoint" />
+            <mxPoint x="170" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="60" />
+              <mxPoint x="210" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Reinforcement learning: &lt;br&gt;An introduction" link="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-28">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-25">
+            <mxGeometry x="238.5" y="-10" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;shadow=0;sketch=0;strokeColor=#6c8ebf;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-25" source="_dNd2XN51jk64DEOmk3G-26" target="_dNd2XN51jk64DEOmk3G-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="20" as="sourcePoint" />
+            <mxPoint x="230" y="-30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="30" />
+              <mxPoint x="230" y="7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Markov decision &lt;br&gt;processes: &lt;br&gt;discrete stochastic &lt;br&gt;dynamic programming" link="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwivsretybL9AhV4zTgGHcAsA_gQFnoECBUQAQ&amp;url=https%3A%2F%2Flibrary.iti.ac.id%2Fopac%2Findex.php%3Fp%3Dfstream-pdf%26fid%3D193%26bid%3D34755&amp;usg=AOvVaw1F-cQOeDiw-wELHlRVD3Dg" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-30">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-25">
+            <mxGeometry x="237" y="40" width="143" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-32" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;Basics - IV&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=nowrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="950" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Deep Q-Networks" id="_dNd2XN51jk64DEOmk3G-33">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="980" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Architecture of DQNs" id="_dNd2XN51jk64DEOmk3G-34">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1030" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Experience replay &amp;amp;&lt;br&gt;Target network" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-35">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1080" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="870" width="400" height="90" as="geometry" />
+        </mxCell>
+        <UserObject label="References -&amp;gt;" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-37">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-36">
+            <mxGeometry y="20" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fontSize=11;fontColor=#000000;dashed=1;dashPattern=1 4;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="60" as="sourcePoint" />
+            <mxPoint x="170" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="60" />
+              <mxPoint x="210" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Q-learning. &lt;br&gt;Machine learning" link="https://papers.nips.cc/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf" id="_dNd2XN51jk64DEOmk3G-39">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-36">
+            <mxGeometry x="237" y="-10" width="163" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;shadow=0;sketch=0;strokeColor=#6c8ebf;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-36" source="_dNd2XN51jk64DEOmk3G-37" target="_dNd2XN51jk64DEOmk3G-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="20" as="sourcePoint" />
+            <mxPoint x="230" y="-30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="30" />
+              <mxPoint x="230" y="7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Human-level control through &lt;br&gt;deep reinforcement learning" link="https://www.nature.com/articles/nature14236" id="_dNd2XN51jk64DEOmk3G-41">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-36">
+            <mxGeometry x="237" y="40" width="163" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="1110" width="500" height="90" as="geometry" />
+        </mxCell>
+        <UserObject label="References -&amp;gt;" linkTarget="_blank" id="_dNd2XN51jk64DEOmk3G-43">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fillColor=#1F6286;fontColor=#FFFFFF;textDirection=ltr;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-42">
+            <mxGeometry y="20" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fontSize=11;fontColor=#000000;dashed=1;dashPattern=1 4;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="60" as="sourcePoint" />
+            <mxPoint x="170" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="60" />
+              <mxPoint x="210" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_dNd2XN51jk64DEOmk3G-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;shadow=0;sketch=0;strokeColor=#6c8ebf;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;" edge="1" parent="_dNd2XN51jk64DEOmk3G-42" source="_dNd2XN51jk64DEOmk3G-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="20" as="sourcePoint" />
+            <mxPoint x="237" y="7.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="30" />
+              <mxPoint x="230" y="7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Double Q-learning. &lt;br&gt;Advances in neural &lt;br&gt;information processing systems" link="https://papers.nips.cc/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf" id="_dNd2XN51jk64DEOmk3G-47">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-42">
+            <mxGeometry x="237" y="40" width="173" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Human-level control through &lt;br&gt;deep reinforcement learning" link="https://www.nature.com/articles/nature14236" id="_dNd2XN51jk64DEOmk3G-48">
+          <mxCell style="rounded=1;whiteSpace=nowrap;html=1;fontSize=11;fillColor=#878787;textDirection=ltr;fontColor=#FFFFFF;labelBackgroundColor=none;endFill=0;endArrow=none;shadow=1;" vertex="1" parent="_dNd2XN51jk64DEOmk3G-42">
+            <mxGeometry x="237" y="-20" width="173" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
